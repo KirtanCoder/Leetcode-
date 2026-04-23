@@ -14,6 +14,7 @@ solve leetcode problems here
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ solve leetcode problems here
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
