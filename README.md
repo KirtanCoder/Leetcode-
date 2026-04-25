@@ -6,6 +6,7 @@ solve leetcode problems here
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -19,6 +20,7 @@ solve leetcode problems here
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KirtanCoder/Leetcode-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KirtanCoder/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
