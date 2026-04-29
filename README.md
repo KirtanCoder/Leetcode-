@@ -61,6 +61,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -70,6 +71,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -79,6 +81,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -87,6 +90,7 @@ solve leetcode problems here
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Database
 | Problem Name | Difficulty |
