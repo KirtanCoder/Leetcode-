@@ -85,4 +85,8 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/KirtanCoder/Leetcode-/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
