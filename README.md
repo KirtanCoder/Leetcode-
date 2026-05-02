@@ -11,6 +11,7 @@ solve leetcode problems here
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -57,6 +58,7 @@ solve leetcode problems here
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
