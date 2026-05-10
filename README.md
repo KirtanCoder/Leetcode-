@@ -7,6 +7,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 ## String
@@ -20,6 +21,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
@@ -61,6 +63,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Stack
