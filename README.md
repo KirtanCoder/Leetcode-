@@ -14,6 +14,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/KirtanCoder/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
