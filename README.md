@@ -29,6 +29,7 @@ solve leetcode problems here
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/KirtanCoder/Leetcode-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@ solve leetcode problems here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
