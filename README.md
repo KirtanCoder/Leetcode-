@@ -8,6 +8,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 ## String
@@ -23,6 +24,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
