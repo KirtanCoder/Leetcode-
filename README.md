@@ -29,6 +29,7 @@ solve leetcode problems here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -49,6 +50,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/KirtanCoder/Leetcode-/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/KirtanCoder/Leetcode-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
@@ -161,5 +163,6 @@ solve leetcode problems here
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
