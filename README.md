@@ -16,6 +16,7 @@ solve leetcode problems here
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -48,6 +49,7 @@ solve leetcode problems here
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -204,4 +206,8 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
