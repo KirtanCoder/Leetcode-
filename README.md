@@ -58,6 +58,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/KirtanCoder/Leetcode-/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/KirtanCoder/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
@@ -77,6 +78,7 @@ solve leetcode problems here
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/KirtanCoder/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 ## Sorting
