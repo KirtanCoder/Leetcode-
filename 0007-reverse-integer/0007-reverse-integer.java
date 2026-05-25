@@ -1,22 +1,40 @@
 class Solution {
-    public int reverse(int y) {
 
-        int sum=0;
-int x = Math.abs(y);
-        while(x>0){
-            int r = x%10;
-             if (sum > Integer.MAX_VALUE / 10 || 
-               (sum == Integer.MAX_VALUE / 10 && r > 7)) return 0;
+    public int reverse(int x) {
 
-            if (sum < Integer.MIN_VALUE / 10 || 
-               (sum == Integer.MIN_VALUE / 10 && r < -8)) return 0;
-            sum = sum*10 +r;
-            x=x/10;
+        int rev = 0;
+
+        while (x != 0) {
+
+            // Extract last digit
+            int digit = x % 10;
+
+            /*
+             * Overflow Check
+             *
+             * Integer.MAX_VALUE = 2147483647
+             * Integer.MIN_VALUE = -2147483648
+             */
+
+            if (rev > Integer.MAX_VALUE / 10 ||
+               (rev == Integer.MAX_VALUE / 10 && digit > 7)) {
+
+                return 0;
+            }
+
+            if (rev < Integer.MIN_VALUE / 10 ||
+               (rev == Integer.MIN_VALUE / 10 && digit < -8)) {
+
+                return 0;
+            }
+
+            // Build reversed number
+            rev = rev * 10 + digit;
+
+            // Remove last digit
+            x /= 10;
         }
 
-if(y<0){
-    return -1*sum;
-}
-return sum;
+        return rev;
     }
 }
