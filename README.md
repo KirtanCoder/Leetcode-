@@ -11,6 +11,7 @@ solve leetcode problems here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 ## String
@@ -159,6 +160,7 @@ solve leetcode problems here
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
