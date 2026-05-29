@@ -8,6 +8,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/0031-next-permutation/) | Medium |
@@ -157,6 +158,7 @@ solve leetcode problems here
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
