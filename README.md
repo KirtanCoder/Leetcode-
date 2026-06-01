@@ -21,6 +21,7 @@ solve leetcode problems here
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/KirtanCoder/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
@@ -154,6 +155,7 @@ solve leetcode problems here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -219,4 +221,8 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
