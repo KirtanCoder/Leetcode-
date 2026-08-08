@@ -32,6 +32,7 @@ solve leetcode problems here
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
@@ -57,6 +58,7 @@ solve leetcode problems here
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/KirtanCoder/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
