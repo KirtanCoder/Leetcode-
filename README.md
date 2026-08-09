@@ -15,6 +15,7 @@ solve leetcode problems here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KirtanCoder/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
@@ -51,6 +52,7 @@ solve leetcode problems here
 | [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -120,6 +122,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -290,4 +293,12 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KirtanCoder/Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
