@@ -55,6 +55,7 @@ solve leetcode problems here
 | [0162-find-peak-element](https://github.com/KirtanCoder/Leetcode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KirtanCoder/Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +71,7 @@ solve leetcode problems here
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/KirtanCoder/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
@@ -109,6 +111,7 @@ solve leetcode problems here
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Stack
