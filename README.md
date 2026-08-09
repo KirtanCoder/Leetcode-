@@ -55,6 +55,7 @@ solve leetcode problems here
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KirtanCoder/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
