@@ -15,6 +15,7 @@ solve leetcode problems here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 ## String
@@ -48,6 +49,7 @@ solve leetcode problems here
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/KirtanCoder/Leetcode-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -101,6 +103,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
