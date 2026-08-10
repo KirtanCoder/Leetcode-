@@ -32,6 +32,7 @@ solve leetcode problems here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/KirtanCoder/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -198,6 +199,7 @@ solve leetcode problems here
 | [0070-climbing-stairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -273,6 +275,7 @@ solve leetcode problems here
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/KirtanCoder/Leetcode-/tree/main/0046-permutations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
