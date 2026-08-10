@@ -48,6 +48,7 @@ solve leetcode problems here
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KirtanCoder/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/KirtanCoder/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
@@ -270,6 +271,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/KirtanCoder/Leetcode-/tree/main/0046-permutations/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
