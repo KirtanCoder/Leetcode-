@@ -27,6 +27,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KirtanCoder/Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -41,6 +42,7 @@ solve leetcode problems here
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KirtanCoder/Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -308,4 +310,8 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KirtanCoder/Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
