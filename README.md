@@ -35,6 +35,7 @@ solve leetcode problems here
 | [0038-count-and-say](https://github.com/KirtanCoder/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -90,6 +91,7 @@ solve leetcode problems here
 | [0128-longest-consecutive-sequence](https://github.com/KirtanCoder/Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
@@ -134,6 +136,7 @@ solve leetcode problems here
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
