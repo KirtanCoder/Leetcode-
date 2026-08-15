@@ -21,6 +21,7 @@ solve leetcode problems here
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KirtanCoder/Leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -224,6 +225,7 @@ solve leetcode problems here
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
