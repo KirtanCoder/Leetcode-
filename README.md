@@ -66,6 +66,7 @@ solve leetcode problems here
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/KirtanCoder/Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/KirtanCoder/Leetcode-/tree/main/0136-single-number/) | Easy |
@@ -167,6 +168,7 @@ solve leetcode problems here
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -191,6 +193,7 @@ solve leetcode problems here
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -240,6 +243,7 @@ solve leetcode problems here
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -270,6 +274,7 @@ solve leetcode problems here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
