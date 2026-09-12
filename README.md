@@ -86,6 +86,7 @@ solve leetcode problems here
 | [0485-max-consecutive-ones](https://github.com/KirtanCoder/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtanCoder/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KirtanCoder/Leetcode-/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -135,6 +136,7 @@ solve leetcode problems here
 | [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
