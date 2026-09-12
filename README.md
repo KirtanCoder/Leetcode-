@@ -75,6 +75,7 @@ solve leetcode problems here
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KirtanCoder/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ solve leetcode problems here
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KirtanCoder/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KirtanCoder/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
@@ -297,6 +299,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtanCoder/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Backtracking
 |  |
@@ -316,6 +319,7 @@ solve leetcode problems here
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/KirtanCoder/Leetcode-/tree/main/0724-find-pivot-index/) | Easy |
 ## Counting
 |  |
