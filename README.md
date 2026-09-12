@@ -90,6 +90,7 @@ solve leetcode problems here
 | [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KirtanCoder/Leetcode-/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/KirtanCoder/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KirtanCoder/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -140,6 +141,7 @@ solve leetcode problems here
 | [0278-first-bad-version](https://github.com/KirtanCoder/Leetcode-/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KirtanCoder/Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
