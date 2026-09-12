@@ -1,22 +1,11 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        // abcabcbb
-        //left-> 0 pe , right-> 0
-        //unordered_set 
-        //left tabhi move hoga jb right me character repeat ho set se check krenge fir left erase kr denge set se
-        //set me insert kr denge right wala
-        //max ans = right-left +1 
-
-
+        int left =0;
+    int ans=0;
         unordered_set<char> st;
 
-        int left =0;
-        int ans =0;
-
-        for(int right =0;right<s.size();right++){
-
-            //repeat character mila to left move
+        for(int right=0;right<s.size();right++){
             while(st.count(s[right])){
                 st.erase(s[left]);
                 left++;
@@ -25,6 +14,6 @@ public:
             ans = max(ans,right-left+1);
         }
 
-return ans;
+        return ans;
     }
 };
