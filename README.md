@@ -21,6 +21,7 @@ solve leetcode problems here
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KirtanCoder/Leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -40,6 +41,7 @@ solve leetcode problems here
 | [0205-isomorphic-strings](https://github.com/KirtanCoder/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KirtanCoder/Leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -103,6 +105,7 @@ solve leetcode problems here
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
 |  |
@@ -300,6 +303,7 @@ solve leetcode problems here
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtanCoder/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Backtracking
 |  |
