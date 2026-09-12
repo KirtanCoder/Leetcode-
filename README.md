@@ -137,6 +137,7 @@ solve leetcode problems here
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KirtanCoder/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/KirtanCoder/Leetcode-/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -362,4 +363,8 @@ solve leetcode problems here
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KirtanCoder/Leetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
