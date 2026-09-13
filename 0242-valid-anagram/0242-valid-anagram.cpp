@@ -1,21 +1,28 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        //compare string length
-        //sort each
-      if(s.size()!= t.size()) return false;
+        if(s.length()!=t.length()) return false;
 
-      sort(s.begin(),s.end());
-      sort(t.begin(),t.end());
+        int freq1[26] ={0};
+        int freq2[26] ={0};
 
-
-      for(int i=0;i<s.size();i++){
-        if(s[i]!=t[i]){
-            return false;
+        for(int i=0;i<s.length();i++){
+            freq1[s[i]-'a']++;
+          
         }
-      }
+        for(int i=0;i<t.length();i++){
+            freq2[t[i]-'a']++;
+          
+        }
 
-      return true;
 
+
+        for(int i=0;i<26;i++){
+            if(freq1[i]!=freq2[i]){
+                return false;
+            }
+            
+        }
+    return true;
     }
 };
