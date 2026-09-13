@@ -6,6 +6,7 @@ solve leetcode problems here
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
@@ -30,6 +31,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/KirtanCoder/Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
@@ -239,6 +241,7 @@ solve leetcode problems here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -373,4 +376,8 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KirtanCoder/Leetcode-/tree/master/0278-first-bad-version) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
