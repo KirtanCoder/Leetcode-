@@ -17,6 +17,7 @@ solve leetcode problems here
 | [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/KirtanCoder/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KirtanCoder/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ solve leetcode problems here
 | [0038-count-and-say](https://github.com/KirtanCoder/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/KirtanCoder/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/KirtanCoder/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KirtanCoder/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
