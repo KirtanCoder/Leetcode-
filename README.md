@@ -122,6 +122,7 @@ solve leetcode problems here
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KirtanCoder/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KirtanCoder/Leetcode-/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/KirtanCoder/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
@@ -253,6 +254,7 @@ solve leetcode problems here
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KirtanCoder/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -264,6 +266,7 @@ solve leetcode problems here
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KirtanCoder/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0206-reverse-linked-list) |
