@@ -256,12 +256,14 @@ solve leetcode problems here
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
