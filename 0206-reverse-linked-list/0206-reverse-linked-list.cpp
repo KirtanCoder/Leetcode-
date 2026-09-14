@@ -2,25 +2,23 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
 
-        vector<int> temp;
+      // prev = null
+      //curr - head
+      //next = curr->next
 
-        ListNode* move = head;
 
-        while (move != NULL) {
-            temp.push_back(move->val);
-            move = move->next;
-        }
+      ListNode * prev = NULL;
+      ListNode * curr = head;
+      
+      while(curr!=NULL){
+        ListNode * next = curr->next;
 
-        ListNode* m = head;
-
-        int i = temp.size() - 1;
-
-        while (i >= 0) {
-            m->val = temp[i];
-            m = m->next;
-            i--;
-        }
-
-        return head;
+        curr->next =prev;
+        
+        prev = curr;
+        curr =next;
+      }
+return prev;
+       
     }
 };
