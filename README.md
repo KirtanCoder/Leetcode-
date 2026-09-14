@@ -19,6 +19,7 @@ solve leetcode problems here
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/KirtanCoder/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/KirtanCoder/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KirtanCoder/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ solve leetcode problems here
 | [0036-valid-sudoku](https://github.com/KirtanCoder/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/KirtanCoder/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/KirtanCoder/Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/KirtanCoder/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KirtanCoder/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
@@ -256,6 +258,7 @@ solve leetcode problems here
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/KirtanCoder/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -386,4 +389,8 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KirtanCoder/Leetcode-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
