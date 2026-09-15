@@ -91,6 +91,7 @@ solve leetcode problems here
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KirtanCoder/Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtanCoder/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@ solve leetcode problems here
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtanCoder/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
@@ -188,6 +190,7 @@ solve leetcode problems here
 | [0225-implement-stack-using-queues](https://github.com/KirtanCoder/Leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KirtanCoder/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -407,5 +410,6 @@ solve leetcode problems here
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
