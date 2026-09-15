@@ -95,6 +95,7 @@ solve leetcode problems here
 | [0643-maximum-average-subarray-i](https://github.com/KirtanCoder/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/KirtanCoder/Leetcode-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KirtanCoder/Leetcode-/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KirtanCoder/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -188,6 +189,7 @@ solve leetcode problems here
 | [0232-implement-queue-using-stacks](https://github.com/KirtanCoder/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Tree
 |  |
@@ -402,4 +404,8 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KirtanCoder/Leetcode-/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
