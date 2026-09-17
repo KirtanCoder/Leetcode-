@@ -208,6 +208,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -226,6 +227,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0110-balanced-binary-tree) |
@@ -240,6 +242,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -312,6 +315,7 @@ solve leetcode problems here
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## String Matching
