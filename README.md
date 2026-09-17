@@ -431,4 +431,8 @@ solve leetcode problems here
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
