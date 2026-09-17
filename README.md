@@ -414,6 +414,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/master/0022-generate-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
