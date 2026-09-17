@@ -67,6 +67,7 @@ solve leetcode problems here
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KirtanCoder/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KirtanCoder/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/KirtanCoder/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
@@ -353,6 +354,7 @@ solve leetcode problems here
 | ------- |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KirtanCoder/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/KirtanCoder/Leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0090-subsets-ii) |
