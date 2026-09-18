@@ -95,6 +95,7 @@ solve leetcode problems here
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/KirtanCoder/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ solve leetcode problems here
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtanCoder/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
@@ -185,6 +187,7 @@ solve leetcode problems here
 | [0217-contains-duplicate](https://github.com/KirtanCoder/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
@@ -359,11 +362,13 @@ solve leetcode problems here
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -395,6 +400,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -404,6 +410,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -466,4 +473,8 @@ solve leetcode problems here
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
