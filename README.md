@@ -105,6 +105,7 @@ solve leetcode problems here
 | [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KirtanCoder/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KirtanCoder/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
@@ -146,6 +147,7 @@ solve leetcode problems here
 | [0150-evaluate-reverse-polish-notation](https://github.com/KirtanCoder/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ solve leetcode problems here
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
@@ -363,12 +366,14 @@ solve leetcode problems here
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -401,6 +406,7 @@ solve leetcode problems here
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -477,4 +483,12 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
