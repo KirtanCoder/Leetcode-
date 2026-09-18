@@ -72,6 +72,7 @@ solve leetcode problems here
 | [0046-permutations](https://github.com/KirtanCoder/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/KirtanCoder/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KirtanCoder/Leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -292,6 +293,7 @@ solve leetcode problems here
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -322,6 +324,7 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 ## Binary Search Tree
