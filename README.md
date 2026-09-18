@@ -491,4 +491,8 @@ solve leetcode problems here
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
