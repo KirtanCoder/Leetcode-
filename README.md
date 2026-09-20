@@ -75,6 +75,7 @@ solve leetcode problems here
 | [0049-group-anagrams](https://github.com/KirtanCoder/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KirtanCoder/Leetcode-/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/KirtanCoder/Leetcode-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/KirtanCoder/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
