@@ -100,6 +100,7 @@ solve leetcode problems here
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KirtanCoder/Leetcode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/KirtanCoder/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KirtanCoder/Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KirtanCoder/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -195,6 +196,7 @@ solve leetcode problems here
 | [0242-valid-anagram](https://github.com/KirtanCoder/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/KirtanCoder/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KirtanCoder/Leetcode-/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -303,6 +305,7 @@ solve leetcode problems here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtanCoder/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/KirtanCoder/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
 |  |
@@ -331,6 +334,7 @@ solve leetcode problems here
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KirtanCoder/Leetcode-/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/KirtanCoder/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KirtanCoder/Leetcode-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
