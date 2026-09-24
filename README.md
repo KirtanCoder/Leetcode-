@@ -117,6 +117,7 @@ solve leetcode problems here
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KirtanCoder/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KirtanCoder/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ solve leetcode problems here
 | [0189-rotate-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KirtanCoder/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
