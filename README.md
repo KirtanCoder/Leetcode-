@@ -4,8 +4,8 @@ solve leetcode problems here
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
@@ -31,8 +31,8 @@ solve leetcode problems here
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KirtanCoder/Leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
@@ -55,8 +55,8 @@ solve leetcode problems here
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KirtanCoder/Leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/KirtanCoder/Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
@@ -119,8 +119,8 @@ solve leetcode problems here
 | [1920-build-array-from-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KirtanCoder/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
@@ -140,8 +140,8 @@ solve leetcode problems here
 | [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KirtanCoder/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KirtanCoder/Leetcode-/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/KirtanCoder/Leetcode-/tree/main/0012-integer-to-roman/) | Medium |
@@ -157,8 +157,8 @@ solve leetcode problems here
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KirtanCoder/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtanCoder/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KirtanCoder/Leetcode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KirtanCoder/Leetcode-/tree/master/0069-sqrtx) |
@@ -175,8 +175,8 @@ solve leetcode problems here
 | [0875-koko-eating-bananas](https://github.com/KirtanCoder/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KirtanCoder/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/KirtanCoder/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/KirtanCoder/Leetcode-/tree/master/0078-subsets) |
@@ -184,8 +184,8 @@ solve leetcode problems here
 | [0136-single-number](https://github.com/KirtanCoder/Leetcode-/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0268-missing-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/KirtanCoder/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/KirtanCoder/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
@@ -205,8 +205,8 @@ solve leetcode problems here
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -221,8 +221,8 @@ solve leetcode problems here
 | [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
@@ -242,8 +242,8 @@ solve leetcode problems here
 | [0700-search-in-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
@@ -259,8 +259,8 @@ solve leetcode problems here
 | [0543-diameter-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
@@ -280,8 +280,8 @@ solve leetcode problems here
 | [0700-search-in-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KirtanCoder/Leetcode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -289,8 +289,8 @@ solve leetcode problems here
 | [0226-invert-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/KirtanCoder/Leetcode-/tree/main/0175-combine-two-tables/) | Easy |
 | [0577-employee-bonus](https://github.com/KirtanCoder/Leetcode-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/KirtanCoder/Leetcode-/tree/main/0584-find-customer-referee/) | Easy |
@@ -299,8 +299,8 @@ solve leetcode problems here
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KirtanCoder/Leetcode-/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/KirtanCoder/Leetcode-/tree/main/1683-invalid-tweets/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
@@ -311,8 +311,8 @@ solve leetcode problems here
 | [0435-non-overlapping-intervals](https://github.com/KirtanCoder/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KirtanCoder/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -324,16 +324,16 @@ solve leetcode problems here
 | [0234-palindrome-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KirtanCoder/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KirtanCoder/Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KirtanCoder/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/KirtanCoder/Leetcode-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KirtanCoder/Leetcode-/tree/master/0134-gas-station) |
@@ -342,42 +342,42 @@ solve leetcode problems here
 | [0678-valid-parenthesis-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/KirtanCoder/Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KirtanCoder/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KirtanCoder/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/KirtanCoder/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/KirtanCoder/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KirtanCoder/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/KirtanCoder/Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KirtanCoder/Leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KirtanCoder/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KirtanCoder/Leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KirtanCoder/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/KirtanCoder/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/KirtanCoder/Leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
@@ -385,27 +385,27 @@ solve leetcode problems here
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtanCoder/Leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtanCoder/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KirtanCoder/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtanCoder/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KirtanCoder/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/KirtanCoder/Leetcode-/tree/main/0039-combination-sum/) | Medium |
@@ -415,102 +415,102 @@ solve leetcode problems here
 | [0090-subsets-ii](https://github.com/KirtanCoder/Leetcode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KirtanCoder/Leetcode-/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/KirtanCoder/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtanCoder/Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KirtanCoder/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/KirtanCoder/Leetcode-/tree/main/0724-find-pivot-index/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/KirtanCoder/Leetcode-/tree/main/0169-majority-element/) | Easy |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KirtanCoder/Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/KirtanCoder/Leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/KirtanCoder/Leetcode-/tree/master/0455-assign-cookies) |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/KirtanCoder/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/KirtanCoder/Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1051-height-checker](https://github.com/KirtanCoder/Leetcode-/tree/main/1051-height-checker/) | Easy |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/KirtanCoder/Leetcode-/tree/master/0278-first-bad-version) |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KirtanCoder/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KirtanCoder/Leetcode-/tree/master/0022-generate-parentheses) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/KirtanCoder/Leetcode-/tree/master/0141-linked-list-cycle) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/KirtanCoder/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KirtanCoder/Leetcode-/tree/master/0739-daily-temperatures) |
 ## DP on Trees
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtanCoder/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KirtanCoder/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KirtanCoder/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtanCoder/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
